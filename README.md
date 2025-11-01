@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Slam256
-- 👀 I’m develop apps and software that make visualization of data on map easier.
+- 👀 I develop apps and software that make visualization of data on map easier.
 - 🌱 Languages: Html Css Javascript Express MongoDB NodeJS React Python SQL
 - 📫 How to reach me twitter @stacieslam.
 
